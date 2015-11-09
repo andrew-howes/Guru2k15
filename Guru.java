@@ -52,7 +52,7 @@ public class Guru {
 	        System.out.println("File Read Error: " + e.getMessage());
 	    }
 		scores = calculateScores(results);
-		
+		System.out.println("Current Match: " + nextMatch);
 		outputClosestBrackets();
 		if(args.length <= 1)
 			checkNext(1,"");
@@ -150,7 +150,7 @@ public class Guru {
 			start = (match-124)*2+120;
 		}else
 		{
-			start = 125;
+			start = 124;
 		}
 		for(int i = start; i < start+2; i++)
 		{
@@ -330,6 +330,11 @@ public class Guru {
 	{
 		if(matchNum < 64)
 		{
+			if(matchNum < nextMatch)
+			{
+				return results[matchNum].equals(pick);
+			}
+			
 			for(int i = 0; i < possibleResults[matchNum].length; i++)
 			{
 				if(possibleResults[matchNum][i].equals(pick))
