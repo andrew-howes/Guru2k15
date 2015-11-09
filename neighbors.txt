@@ -1,0 +1,67 @@
+<span class="nocode">
+updated through Mega Man's win
+LotMorons's closest brackets: - current score: 167
+  ChichiriMuyo - total difference: 117 current deficit: -3 possible gain: 0
+    magic number: 3
+	differences: [7, 13, 30, 51, 52, 56, 83, 84, 89, 92, 95, 101, 108, 110, 121]
+  Carvey - total difference: 45 current deficit: 0 possible gain: 0
+    magic number: 0
+	differences: [7, 36, 62, 83, 89, 92, 93, 99, 110, 114, 117]
+  Wylvane - total difference: 25 current deficit: 0 possible gain: 0
+    magic number: 0
+	differences: [16, 21, 42, 48, 50, 52, 72, 89, 95, 104, 114]
+ChichiriMuyo's closest brackets: - current score: 164
+  LotMorons - total difference: 117 current deficit: 3 possible gain: 81
+    magic number: 78
+	differences: [7, 13, 30, 51, 52, 56, 83, 84, 89, 92, 95, 101, 108, 110, 121]
+  Carvey - total difference: 124 current deficit: 3 possible gain: 81
+    magic number: 78
+	differences: [13, 30, 36, 51, 52, 56, 62, 84, 93, 95, 99, 101, 108, 114, 117, 121]
+  Wylvane - total difference: 128 current deficit: 3 possible gain: 81
+    magic number: 78
+	differences: [7, 13, 16, 21, 30, 42, 48, 50, 51, 56, 72, 83, 84, 92, 101, 104, 108, 110, 114, 121]
+Carvey's closest brackets: - current score: 167
+  LotMorons - total difference: 45 current deficit: 0 possible gain: 0
+    magic number: 0
+	differences: [7, 36, 62, 83, 89, 92, 93, 99, 110, 114, 117]
+  ChichiriMuyo - total difference: 124 current deficit: -3 possible gain: 0
+    magic number: 3
+	differences: [13, 30, 36, 51, 52, 56, 62, 84, 93, 95, 99, 101, 108, 114, 117, 121]
+  Wylvane - total difference: 46 current deficit: 0 possible gain: 0
+    magic number: 0
+	differences: [7, 16, 21, 36, 42, 48, 50, 52, 62, 72, 83, 92, 93, 95, 99, 104, 110, 117]
+frankftw's closest brackets: - current score: 166
+  Lockes Ragnarok - total difference: 73 current deficit: -10 possible gain: 0
+    magic number: 10
+	differences: [7, 11, 12, 29, 30, 34, 39, 42, 45, 58, 59, 62, 69, 70, 72, 77, 86, 89, 92, 95, 97, 101, 102, 114, 119]
+raytan's closest brackets: - current score: 172
+  LotMorons - total difference: 101 current deficit: -5 possible gain: 27
+    magic number: 32
+	differences: [6, 7, 11, 21, 30, 34, 38, 39, 48, 52, 56, 61, 70, 78, 83, 84, 86, 89, 92, 93, 101, 108, 114, 119, 120]
+  Carvey - total difference: 108 current deficit: -5 possible gain: 27
+    magic number: 32
+	differences: [6, 11, 21, 30, 34, 36, 38, 39, 48, 52, 56, 61, 62, 70, 78, 83, 84, 86, 93, 99, 101, 108, 110, 117, 119, 120]
+  Wylvane - total difference: 97 current deficit: -5 possible gain: 27
+    magic number: 32
+	differences: [6, 7, 11, 16, 21, 30, 34, 38, 39, 42, 50, 56, 61, 70, 72, 78, 83, 84, 86, 92, 93, 95, 101, 104, 108, 119, 120]
+Lockes Ragnarok's closest brackets: - current score: 156
+  LotMorons - total difference: 59 current deficit: 11 possible gain: 27
+    magic number: 16
+	differences: [11, 16, 20, 27, 45, 50, 52, 56, 69, 72, 77, 89, 92, 95, 97, 114, 120]
+  Carvey - total difference: 86 current deficit: 11 possible gain: 27
+    magic number: 16
+	differences: [7, 11, 16, 20, 27, 36, 45, 50, 52, 56, 62, 69, 72, 77, 83, 92, 93, 95, 97, 99, 110, 114, 117, 120]
+  Wylvane - total difference: 55 current deficit: 11 possible gain: 27
+    magic number: 16
+	differences: [11, 20, 21, 27, 42, 45, 48, 56, 69, 77, 92, 97, 104, 114, 120]
+Wylvane's closest brackets: - current score: 167
+  LotMorons - total difference: 25 current deficit: 0 possible gain: 0
+    magic number: 0
+	differences: [16, 21, 42, 48, 50, 52, 72, 89, 95, 104, 114]
+  ChichiriMuyo - total difference: 128 current deficit: -3 possible gain: 0
+    magic number: 3
+	differences: [7, 13, 16, 21, 30, 42, 48, 50, 51, 56, 72, 83, 84, 92, 101, 104, 108, 110, 114, 121]
+  Carvey - total difference: 46 current deficit: 0 possible gain: 0
+    magic number: 0
+	differences: [7, 16, 21, 36, 42, 48, 50, 52, 62, 72, 83, 92, 93, 95, 99, 104, 110, 117]
+</span>
