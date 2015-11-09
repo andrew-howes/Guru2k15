@@ -130,24 +130,21 @@ public class Guru {
 	{
 		String[] result;
 		int start;
-		/*if(!possibleResults[match][0].equals(""))
-			return possibleResults[match];*/
+		if(!possibleResults[match][0].equals(""))
+			return possibleResults[match];
 		ArrayList<String> temp = new ArrayList<String>();
-		if(match < 64)
+		if(match < 96)
 		{
 			start = (match-64)*2;
-		}else if(match < 96)
-		{
-			start = (match-96)*2+64;
 		}else if(match < 112)
 		{
-			start = (match-112)*2+96;
+			start = (match-96)*2+64;
 		}else if(match < 120)
 		{
-			start = (match-120)*2+112;
+			start = (match-112)*2+96;
 		}else if(match < 124)
 		{
-			start = (match-120)*2+120;
+			start = (match-120)*2+112;
 		}else if(match < 126)
 		{
 			start = (match-124)*2+120;
@@ -343,40 +340,40 @@ public class Guru {
 		{
 			if(possibleResults[matchNum][0].equals(""))
 				return isValid(pick, (matchNum-64)*2) ||
-						isValid(pick, (matchNum-64)*2+1));
+						isValid(pick, (matchNum-64)*2+1);
 			else
 				return possibleResults[matchNum][0].equals(pick);
 		}else if(matchNum < 112)
 		{
 			if(possibleResults[matchNum][0].equals(""))
-				return isValid(pick, (matchNum-96)*2) ||
-						isValid(pick, (matchNum-96)*2+1));
+				return isValid(pick, (matchNum-96)*2+64) ||
+						isValid(pick, (matchNum-96)*2+65);
 			else
 				return possibleResults[matchNum][0].equals(pick);
 		}else if(matchNum < 120)
 		{
 			if(possibleResults[matchNum][0].equals(""))
-				return isValid(pick, (matchNum-112)*2) ||
-						isValid(pick, (matchNum-112)*2+1));
+				return isValid(pick, (matchNum-112)*2+96) ||
+						isValid(pick, (matchNum-112)*2+97);
 			else
 				return possibleResults[matchNum][0].equals(pick);
 		}else if(matchNum < 124)
 		{
 			if(possibleResults[matchNum][0].equals(""))
-				return isValid(pick, (matchNum-120)*2) ||
-						isValid(pick, (matchNum-120)*2+1));
+				return isValid(pick, (matchNum-120)*2+112) ||
+						isValid(pick, (matchNum-120)*2+113);
 			else
 				return possibleResults[matchNum][0].equals(pick);
 		}else if(matchNum < 126)
 		{
 			if(possibleResults[matchNum][0].equals(""))
-				return isValid(pick, (matchNum-124)*2) ||
-						isValid(pick, (matchNum-124)*2+1));
+				return isValid(pick, (matchNum-124)*2+120) ||
+						isValid(pick, (matchNum-124)*2+121);
 			else
 				return possibleResults[matchNum][0].equals(pick);
 		}else
 		{
-			return isValid(pick, 125)||isValid(pick,126);
+			return isValid(pick, 124)||isValid(pick,125);
 		}
 	}
 	

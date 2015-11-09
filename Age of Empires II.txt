@@ -769,9 +769,9 @@ redsox's closest brackets: - current score: 14
   theawesomestevr - total difference: 136 current deficit: -1 possible gain: 47
     magic number: 48
 	differences: [2, 7, 8, 11, 15, 19, 34, 35, 36, 47, 53, 58, 74, 82, 90, 96, 97, 103, 112, 113, 115, 120, 121, 122, 124, 125]
-Ytterbicide's closest brackets: - current score: 14
-  Big Bob - total difference: 190 current deficit: -2 possible gain: 138
-    magic number: 140
+Ytterbicide's closest brackets: - current score: 15
+  Big Bob - total difference: 190 current deficit: -3 possible gain: 138
+    magic number: 141
 	differences: [2, 14, 17, 22, 34, 36, 42, 46, 47, 50, 52, 58, 59, 60, 68, 70, 73, 78, 79, 82, 86, 87, 89, 90, 91, 94, 97, 100, 101, 102, 107, 109, 110, 112, 114, 115, 118, 119, 120, 122, 123, 124, 126]
 WarThaNemesis's closest brackets: - current score: 14
   alblito - total difference: 84 current deficit: 0 possible gain: 20
