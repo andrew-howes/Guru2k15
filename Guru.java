@@ -16,7 +16,6 @@ public class Guru {
 	static String[] results;
 	static String[][] possibleResults;
 	static File neighbors;
-	static File close;
 	static int nextMatch;
 	
 	public static void main(String[] args) {
@@ -27,8 +26,6 @@ public class Guru {
 	        File inFile = new File(args[0]);
 	        
 	        neighbors = new File("neighbors.txt");
-	        close = new File("close.txt");
-	        
 	        
 	        BufferedReader in = new BufferedReader(new FileReader(inFile));
 	        String line;
@@ -198,7 +195,6 @@ public class Guru {
 	{
 		try {
 			FileWriter writer = new FileWriter(neighbors);
-			FileWriter writer2 = new FileWriter(close);
 			
 			String winner = neighbors.getName();
 			
@@ -208,10 +204,6 @@ public class Guru {
 			
 			writer.write("<span class=\"nocode\">\n");
 			writer.write("updated through "+results[nextMatch-1]+"'s win\n");
-			if(winner.equals("neighbors")){	
-				writer2.write("<span class=\"nocode\">\n");
-				writer2.write("brackets close to elimination for "+results[nextMatch-1]+"'s win\n");
-			}
 			int[][] comparisons;
 			int minscore;
 			String out;
@@ -278,21 +270,10 @@ public class Guru {
 				}
 				if(hasPrinted) System.out.println();
 				writer.write(out);
-				if(minscore < 10 && minscore > 0){
-					writer2.write(entrants[player]+"\n");
-				}
 			}
 			System.out.println();
 			writer.write("</span>\n");
 			writer.close();
-			if(winner.equals("neighbors")){	writer2.write("</span>\n");
-			}
-			writer2.close();
-			
-			//write file of close brackets.
-			
-			
-			
 		} catch (IOException e) {
 			System.out.println("problem with output");
 			System.exit(1);
