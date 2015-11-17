@@ -1,22 +1,28 @@
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.io.FileWriter;
+//import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
+//import java.util.Arrays;
 
 
-public class Guru {
+public class GuruElimChecker {
 
 	static int[] values;
 	static String[] entrants;
 	static int[] scores;
+	static int[] scenarioScores;
 	static ArrayList<String[]> allPicks;
+	static String[] scenarioResults;
 	static String[] results;
 	static String[][] possibleResults;
 	static File neighbors;
+	static String[] closeEntries;
 	static int nextMatch;
+	static int checkIndex;
+	static int[] wrongMatches;
+	static String winningScenario;
 	
 	public static void main(String[] args) {
 		populateValues();
@@ -25,7 +31,11 @@ public class Guru {
 		try {
 	        File inFile = new File(args[0]);
 	        
+	        String player = args[1];
+	        
+	        
 	        neighbors = new File("neighbors.txt");
+	        
 	        
 	        BufferedReader in = new BufferedReader(new FileReader(inFile));
 	        String line;
@@ -41,6 +51,10 @@ public class Guru {
 	            	processPossibleResults(picks);
 	            }else{
 	            	players.add(picks[0]);
+	            	if(picks[0].equals(player))
+	            	{
+	            		checkIndex = count;
+	            	}
 	            	processPlayer(picks);
 	            	count++;
 	            }
@@ -51,78 +65,170 @@ public class Guru {
 	    } catch (IOException e) {
 	        System.out.println("File Read Error: " + e.getMessage());
 	    }
-		scores = calculateScores(results);
+		//scores = calculateScores(results);
 		System.out.println("Current Match: " + nextMatch);
-		outputClosestBrackets();
-		if(args.length <= 1)
-			checkNext(1,"");
-		else
-			checkNext(Integer.parseInt(args[1]),"");
+		
+		if(checkIndex == 0)
+		{
+			System.out.println("Error: Invalid player specified.");
+		}else
+		{
+			checkPlayer();
+		}
+		
+		//outputClosestBrackets();
+//		if(args.length <= 1)
+//			checkNext(1,"");
+//		else
+//			checkNext(Integer.parseInt(args[1]),"");
 		/*
 		calculateScenarios("");*/
 	}
 	
-	public static void checkNext(int i, String filename)
+	
+	public static void checkPlayer()
 	{
-		String[] possibles = getPossibles(nextMatch);
-		for(String poss : possibles)
+		scenarioResults = new String[127];
+		ArrayList<Integer> differences = new ArrayList<Integer>();
+		//set scenarioResults to current result or player's bracket when not impossible
+		for(int i=0; i < 127; i++)
 		{
-			possibleResults[nextMatch] = new String[1];
-			possibleResults[nextMatch][0] = poss;
-			results[nextMatch] = poss;
-			scores = calculateScores(results);
-			if(i <= 1)
-			{
-				neighbors = new File(filename+poss+".txt");
-				outputClosestBrackets();
+			if(i < nextMatch){
+				scenarioResults[i] = results[i];
 			}else{
-				nextMatch++;
-				checkNext(i-1, filename+poss+"+");
-				nextMatch--;
+				if(isValid(allPicks.get(checkIndex)[i],i)){
+					scenarioResults[i] = allPicks.get(checkIndex)[i];
+				}else{
+					scenarioResults[i] = "";
+					differences.add(i);
+				}
 			}
 		}
-		possibleResults[nextMatch] = possibles;
 		
+		//find later round matches to iterate through, where the player is wrong
+		wrongMatches = new int[differences.size()];
+		for(int i = 0; i < wrongMatches.length; i++)
+		{
+			wrongMatches[i] = differences.get(i).intValue();
+		}
+		
+		//recurse through results, checking from left-most first. When you reach the end of the list of matches, check scores
+		boolean isAlive = checkPlayerHelper(0,"");
+		
+		//if player is the winner, end execution, else print scenario and winners
+		if(isAlive)
+		{
+			System.out.print("Player is ALIVE");
+		}else{
+			System.out.print("Player is DEAD");
+		}
+		System.out.println();
 	}
 	
-	public static void calculateScenarios(String scene)
+	public static boolean checkPlayerHelper(int i, String scenario)
 	{
-		String[] possibles = getPossibles(nextMatch);
+		boolean result = false;
+		if(i >= wrongMatches.length)
+		{
+			return outputScenarioWinner(scenario);
+		}
+		String[] possibles = getPlayerPossibles(wrongMatches[i]);
+		
 		for(String poss : possibles)
 		{
-			possibleResults[nextMatch] = new String[1];
-			possibleResults[nextMatch][0] = poss;
-			results[nextMatch] = poss;
-			scores = calculateScores(results);
-			if(nextMatch == 127)
-			{
-				String newScene = scene+poss;
-				outputWinner(newScene);
-			}else{
-				nextMatch++;
-				calculateScenarios(scene+poss+"+");
-				nextMatch--;
-			}
+			scenarioResults[wrongMatches[i]] = poss;
+			result = checkPlayerHelper(i+1, scenario+poss+"+");
+			if(result)
+				break;
 		}
-		possibleResults[nextMatch] = new String[possibles.length];
-		possibleResults[nextMatch] = possibles;
+			//possibleResults[nextMatch] = possibles;
+		//if player is the winner, end execution, else print scenario and winners
+		return result;
 	}
 	
-	public static void outputWinner(String scene)
+	public static boolean outputScenarioWinner(String scene)
 	{
+		boolean result = false;
+		scores = calculateScores(scenarioResults);
 		int maxscore = scores[0];
 		for(int i = 1; i < scores.length; i++)
 		{
 			if(scores[i] > maxscore)
 				maxscore = scores[i];
 		}
+		scene = scene.substring(0,scene.length()-1);
 		System.out.print("Winner(s) for " + scene +": ");
 		for(int j = 0; j < scores.length; j++)
 		{
-			if(scores[j]==maxscore)
+			if(scores[j]==maxscore){
+				if(j == checkIndex){
+					result = true;
+					winningScenario = scene;
+				}
 				System.out.print(entrants[j]+" ");
+			}
 		}
 		System.out.println();
+		return result;
+	}
+	
+
+	
+	
+//	public static void checkNext(int i, String filename)
+//	{
+//		String[] possibles = getPossibles(nextMatch);
+//		for(String poss : possibles)
+//		{
+//			possibleResults[nextMatch] = new String[1];
+//			possibleResults[nextMatch][0] = poss;
+//			results[nextMatch] = poss;
+//			scores = calculateScores(results);
+//			if(i <= 1)
+//			{
+//				neighbors = new File(filename+poss+".txt");
+//				//outputClosestBrackets();
+//			}else{
+//				nextMatch++;
+//				checkNext(i-1, filename+poss+"+");
+//				nextMatch--;
+//			}
+//		}
+//		possibleResults[nextMatch] = possibles;
+//		
+//	}
+	
+	public static String[] getPlayerPossibles(int match)
+	{
+		String[] result;
+		int start;
+		ArrayList<String> temp = new ArrayList<String>();
+		if(match < 96)
+		{
+			start = (match-64)*2;
+		}else if(match < 112)
+		{
+			start = (match-96)*2+64;
+		}else if(match < 120)
+		{
+			start = (match-112)*2+96;
+		}else if(match < 124)
+		{
+			start = (match-120)*2+112;
+		}else if(match < 126)
+		{
+			start = (match-124)*2+120;
+		}else
+		{
+			start = 124;
+		}
+		for(int i = start; i < start+2; i++)
+		{
+			temp.add(scenarioResults[i]);
+		}
+		result = temp.toArray(new String[temp.size()]);
+		
+		return result;
 	}
 	
 	
@@ -191,141 +297,11 @@ public class Guru {
 		}
 	}
 	
-	public static void outputClosestBrackets()
-	{
-		try {
-			FileWriter writer = new FileWriter(neighbors);
-			
-			String winner = neighbors.getName();
-			
-			winner = winner.substring(0,winner.indexOf("."));
-			if(! winner.equals("neighbors"))
-				System.out.println("Elims for a "+winner+" win:");
-			
-			writer.write("<span class=\"nocode\">\n");
-			writer.write("updated through "+results[nextMatch-1]+"'s win\n");
-			int[][] comparisons;
-			int minscore;
-			String out;
-			ArrayList<Integer> minIDs = new ArrayList<Integer>();
-			int[] diffmatches;
-			boolean hasPrinted = false;
-			for(int player = 0; player < entrants.length; player++)
-			{
-				comparisons = new int[entrants.length][3];
-				for(int second = 0; second < entrants.length; second++)
-				{
-					comparisons[second] = getDifferenceScore(player, second);
-				}
-				minscore = 384;
-				minIDs.clear();
-				for(int i = 0; i < entrants.length; i++)
-				{
-					if(i != player)
-					{
-						//if(comparisons[i][1] < minscore)
-						//if((scores[i]-scores[player]) + comparisons[i][2] < minscore)
-						if((comparisons[i][2]-(scores[i]-scores[player])) < 10 ||
-								(scores[player]-scores[i]) + comparisons[i][2] < minscore)
-						{
-							if(minscore > 10)
-								minIDs.clear();
-							//minscore = comparisons[i][1];
-							if(comparisons[i][2]-(scores[i]-scores[player]) < minscore)
-								minscore = (comparisons[i][2]-(scores[i]-scores[player]));
-							minIDs.add(i);
-						//}else if(comparisons[i][1] == minscore)
-						}else if((scores[player]-scores[i]) + comparisons[i][2] == minscore)
-						{
-							minIDs.add(i);
-						}
-					}
-				}
-				out = "";
-				writer.write(entrants[player]+"'s closest brackets: - current score: " 
-								+ scores[player] + " count: " + minIDs.size() + "\n");
-				hasPrinted = false;
-				for(Integer i : minIDs)
-				{
-					if((comparisons[i][2]-(scores[i]-scores[player]))<0 || minscore>=0)
-					{
-						out += "  " + entrants[i] + " -";
-						out += " total difference: " + comparisons[i][1];
-						out += " current deficit: "+ (scores[i]-scores[player]); 
-						out += " possible gain: " + comparisons[i][2] +"\n";
-						out += "    magic number: " + (comparisons[i][2]-(scores[i]-scores[player])) + "\n";
-						out += "\tdifferences: ";
-						diffmatches = getDifferentMatches(player,i);
-						out += Arrays.toString(diffmatches)+"\n";
-						if((scores[i]-scores[player]) > comparisons[i][2])
-						{
-							out += "Should be dead\n";
-							if(!hasPrinted){
-								System.out.print(entrants[player] + " by " + entrants[i]);
-								hasPrinted = true;
-							}else
-								System.out.print(", " + entrants[i]);
-						}
-					}
-				}
-				if(hasPrinted) System.out.println();
-				writer.write(out);
-			}
-			System.out.println();
-			writer.write("</span>\n");
-			writer.close();
-		} catch (IOException e) {
-			System.out.println("problem with output");
-			System.exit(1);
-		}
-		//System.out.println("Done getting differences");
-	}
+
 	
-	public static int[] getDifferentMatches(int first, int second)
-	{
-		String[] firstPicks = allPicks.get(first);
-		String[] lastPicks = allPicks.get(second);
-		
-		ArrayList<Integer> differences = new ArrayList<Integer>();
-		
-		for(int i = 0; i < firstPicks.length; i++)
-		{
-			if(!firstPicks[i].equals(lastPicks[i]))
-			{
-				differences.add(i+1);
-			}
-		}
-		int[] result = new int[differences.size()];
-		for(int i = 0; i < result.length; i++)
-		{
-			result[i] = differences.get(i).intValue();
-		}
-		return result;
-	}
+
 	
-	public static int[] getDifferenceScore(int first, int second)
-	{
-		String[] firstPicks = allPicks.get(first);
-		String[] lastPicks = allPicks.get(second);
-		int[] result = new int[3];
-		//number of differences, point value, possible points to make up
-		result[0] = result[1] = result[2] = 0;
-		for(int i = 0; i < firstPicks.length; i++)
-		{
-			if(!firstPicks[i].equals(lastPicks[i]))
-			{
-				result[1] += values[i];
-				result[0]++;
-				if(i >= nextMatch && isValid(firstPicks[i],i))
-				{
-					result[2]+=values[i];
-				}
-			}
-		}
-		
-		return result;
-	}
-	
+
 	public static boolean isValid(String pick, int matchNum)
 	{
 		if(matchNum < 64)
@@ -382,6 +358,58 @@ public class Guru {
 		}
 	}
 	
+	
+	public static boolean isPlayerPickValid(String pick, int matchNum)
+	{
+		if(matchNum < 64)
+		{
+			if(matchNum < nextMatch)
+			{
+				return results[matchNum].equals(pick);
+			}else{
+				return scenarioResults[matchNum].equals(pick);
+			}
+
+		}else if(matchNum < 96)
+		{
+			if(possibleResults[matchNum][0].equals(""))
+				return isPlayerPickValid(pick, (matchNum-64)*2) ||
+						isPlayerPickValid(pick, (matchNum-64)*2+1);
+			else
+				return possibleResults[matchNum][0].equals(pick);
+		}else if(matchNum < 112)
+		{
+			if(possibleResults[matchNum][0].equals(""))
+				return isPlayerPickValid(pick, (matchNum-96)*2+64) ||
+						isPlayerPickValid(pick, (matchNum-96)*2+65);
+			else
+				return possibleResults[matchNum][0].equals(pick);
+		}else if(matchNum < 120)
+		{
+			if(possibleResults[matchNum][0].equals(""))
+				return isPlayerPickValid(pick, (matchNum-112)*2+96) ||
+						isPlayerPickValid(pick, (matchNum-112)*2+97);
+			else
+				return possibleResults[matchNum][0].equals(pick);
+		}else if(matchNum < 124)
+		{
+			if(possibleResults[matchNum][0].equals(""))
+				return isPlayerPickValid(pick, (matchNum-120)*2+112) ||
+						isPlayerPickValid(pick, (matchNum-120)*2+113);
+			else
+				return possibleResults[matchNum][0].equals(pick);
+		}else if(matchNum < 126)
+		{
+			if(possibleResults[matchNum][0].equals(""))
+				return isPlayerPickValid(pick, (matchNum-124)*2+120) ||
+						isPlayerPickValid(pick, (matchNum-124)*2+121);
+			else
+				return possibleResults[matchNum][0].equals(pick);
+		}else
+		{
+			return isPlayerPickValid(pick, 124)||isPlayerPickValid(pick,125);
+		}
+	}
 
 	
 	public static void processPossibleResults(String[] possible)
