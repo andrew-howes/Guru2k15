@@ -30,8 +30,11 @@ public class GuruElimChecker {
 		allPicks = new ArrayList<String[]>();
 		try {
 	        File inFile = new File(args[0]);
-	        
-	        String player = args[1];
+	        String player = "";
+	        if(args.length <= 1)
+	        	checkIndex = 0;
+	        else
+	        	player = args[1];
 	        
 	        
 	        neighbors = new File("neighbors.txt");
@@ -70,7 +73,7 @@ public class GuruElimChecker {
 		
 		if(checkIndex == 0)
 		{
-			System.out.println("Error: Invalid player specified.");
+			checkAllPlayers();
 		}else
 		{
 			checkPlayer();
@@ -83,6 +86,15 @@ public class GuruElimChecker {
 //			checkNext(Integer.parseInt(args[1]),"");
 		/*
 		calculateScenarios("");*/
+	}
+	
+	public static void checkAllPlayers()
+	{
+		for(int i = 0; i < entrants.length; i++)
+		{
+			checkIndex = i;
+			checkPlayer();
+		}
 	}
 	
 	
@@ -104,23 +116,29 @@ public class GuruElimChecker {
 				}
 			}
 		}
-		
-		//find later round matches to iterate through, where the player is wrong
-		wrongMatches = new int[differences.size()];
-		for(int i = 0; i < wrongMatches.length; i++)
+		if(differences.size() == 0)
 		{
-			wrongMatches[i] = differences.get(i).intValue();
-		}
-		
-		//recurse through results, checking from left-most first. When you reach the end of the list of matches, check scores
-		boolean isAlive = checkPlayerHelper(0,"");
-		
-		//if player is the winner, end execution, else print scenario and winners
-		if(isAlive)
-		{
-			System.out.print("Player is ALIVE");
+			System.out.print("\t"+entrants[checkIndex]+" is ALIVE");
 		}else{
-			System.out.print("Player is DEAD");
+			//find later round matches to iterate through, where the player is wrong
+			wrongMatches = new int[differences.size()];
+			
+			
+			for(int i = 0; i < wrongMatches.length; i++)
+			{
+				wrongMatches[i] = differences.get(i).intValue();
+			}
+			
+			//recurse through results, checking from left-most first. When you reach the end of the list of matches, check scores
+			boolean isAlive = checkPlayerHelper(0,"");
+			
+			//if player is the winner, end execution, else print scenario and winners
+			if(isAlive)
+			{
+				System.out.print("\t"+entrants[checkIndex]+" is ALIVE");
+			}else{
+				System.out.print("\t"+entrants[checkIndex]+" is DEAD");
+			}
 		}
 		System.out.println();
 	}
