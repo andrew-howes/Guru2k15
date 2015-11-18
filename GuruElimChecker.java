@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class GuruElimChecker {
 
-	static int[] values;
+	static int[] values; 
 	static String[] entrants;
 	static int[] scores;
 	static int[] scenarioScores;
@@ -17,12 +17,28 @@ public class GuruElimChecker {
 	static String[] scenarioResults;
 	static String[] results;
 	static String[][] possibleResults;
-	static File neighbors;
+	//static File neighbors;
 	static String[] closeEntries;
 	static int nextMatch;
 	static int checkIndex;
 	static int[] wrongMatches;
 	static String winningScenario;
+	
+	
+	public GuruElimChecker(int[] INvalues,String[] INentrants, ArrayList<String[]> INallPicks, String[] INresults, String[][] INpossibleResults,
+			int INnextMatch)
+	{
+		values = INvalues; 
+		entrants = INentrants;
+		allPicks = INallPicks;
+		
+
+		results = INresults;
+		possibleResults = INpossibleResults;
+		//static File neighbors;
+		nextMatch = INnextMatch;
+	}
+	
 	
 	public static void main(String[] args) {
 		populateValues();
@@ -37,7 +53,7 @@ public class GuruElimChecker {
 	        	player = args[1];
 	        
 	        
-	        neighbors = new File("neighbors.txt");
+	        //neighbors = new File("neighbors.txt");
 	        
 	        
 	        BufferedReader in = new BufferedReader(new FileReader(inFile));

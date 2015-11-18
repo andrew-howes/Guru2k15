@@ -15,7 +15,7 @@ public class Guru {
 	static ArrayList<String[]> allPicks;
 	static String[] results;
 	static String[][] possibleResults;
-	static File neighbors;
+	static File neighbors; 
 	static int nextMatch;
 	
 	public static void main(String[] args) {
