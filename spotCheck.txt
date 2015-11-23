@@ -1,5 +1,4 @@
-Current Match: 68
-Winner(s) for Smash Bros Wii U: charmander 
+Current Match: 72
 	charmander is ALIVE
 Winner(s) for Sonic 2+DK Country 2: JONALEON 
 	JONALEON is ALIVE
@@ -18,14 +17,14 @@ Winner(s) for Okami+DK Country 2: tkizzle
 Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: Glenn_and_Toad 
 	Glenn_and_Toad is ALIVE
 	Sir Chris is ALIVE
-Winner(s) for Smash Bros Wii U+Okami+DK Country 2+GTA San Andreas: RockMFR 
+Winner(s) for Okami+DK Country 2+GTA San Andreas: RockMFR 
 	RockMFR is ALIVE
-Winner(s) for Smash Bros Wii U+Okami+GTA San Andreas: TheArkOfTurus 
+Winner(s) for Okami+GTA San Andreas: TheArkOfTurus 
 	TheArkOfTurus is ALIVE
 	Camden is ALIVE
 Winner(s) for DK Country 2+Grand Theft Auto V+Grand Theft Auto V: Haste2 
 	Haste2 is ALIVE
-Winner(s) for Final Fantasy VI+Smash Bros Wii U+Sonic 2+Fallout 3+Metroid Prime+Okami+DK Country 2+The Witcher 3+Smash Bros Wii U+DK Country 2+The Wind Waker: Wizardsfan 
+Winner(s) for Sonic 2+Fallout 3+Metroid Prime+Okami+DK Country 2+The Witcher 3+Smash Bros Wii U+DK Country 2+The Wind Waker: Wizardsfan 
 	Wizardsfan is ALIVE
 Winner(s) for DK Country 2+DK Country 2: ChichiriMuyo 
 	ChichiriMuyo is ALIVE
@@ -48,9 +47,9 @@ Winner(s) for Grand Theft Auto V+Grand Theft Auto V: Blairville
 	Blairville is ALIVE
 Winner(s) for DK Country 2+The Witcher 3: Djungelurban 
 	Djungelurban is ALIVE
-Winner(s) for Star Wars KotOR+Halo 1+Okami+DK Country 2+GTA San Andreas+Smash Bros Wii U+Grand Theft Auto V+Final Fantasy VI+Grand Theft Auto V: jonthomson 
+Winner(s) for Okami+DK Country 2+GTA San Andreas+Smash Bros Wii U+Grand Theft Auto V+Final Fantasy VI+Grand Theft Auto V: jonthomson 
 	jonthomson is ALIVE
-Winner(s) for Smash Bros Wii U+Sonic 2+Okami+Grand Theft Auto V+GTA San Andreas+Grand Theft Auto V: DomaDragoon 
+Winner(s) for Sonic 2+Okami+Grand Theft Auto V+GTA San Andreas+Grand Theft Auto V: DomaDragoon 
 	DomaDragoon is ALIVE
 Winner(s) for Sonic 2+DK Country 2: Kotetsu 
 	Kotetsu is ALIVE
@@ -77,7 +76,7 @@ Winner(s) for DK Country 2: Xeybozn
 Winner(s) for Okami+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: KeepinItFresh 
 	KeepinItFresh is ALIVE
 	Kenri is ALIVE
-Winner(s) for Halo 1+Okami+DK Country 2+GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Smash Bros Wii U+DK Country 2+Grand Theft Auto V+Chrono Trigger+Star Wars KotOR+Grand Theft Auto V+Chrono Trigger+Chrono Trigger: Mega Mana 
+Winner(s) for Okami+DK Country 2+GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Grand Theft Auto V+Chrono Trigger+Chrono Trigger: Mega Mana 
 	Mega Mana is ALIVE
 Winner(s) for DK Country 2+Grand Theft Auto V+GTA San Andreas+DK Country 2+Grand Theft Auto V: junk_funk 
 	junk_funk is ALIVE
@@ -131,13 +130,13 @@ Winner(s) for Okami: ctes
 	ctes is ALIVE
 Winner(s) for Okami+DK Country 2: Steevo_234 
 	Steevo_234 is ALIVE
-Winner(s) for Smash Bros Wii U+Sonic 2+Okami+DK Country 2+GTA San Andreas: machinegungeek 
+Winner(s) for Sonic 2+Okami+DK Country 2+GTA San Andreas: machinegungeek 
 	machinegungeek is ALIVE
 Winner(s) for Sonic 2+Okami+DK Country 2+DK Country 2: _Harmonica_ 
 	_Harmonica_ is ALIVE
 Winner(s) for DK Country 2+Grand Theft Auto V+DK Country 2+Grand Theft Auto V: Wigs 
 	Wigs is ALIVE
-Winner(s) for Smash Bros Wii U+DK Country 2: CybrMonkey 
+Winner(s) for DK Country 2: CybrMonkey 
 	CybrMonkey is ALIVE
 Winner(s) for Sonic 2+Fallout 3: SuorGenoveffa 
 	SuorGenoveffa is ALIVE
@@ -166,13 +165,13 @@ Winner(s) for Sonic 2+DK Country 2+Smash Bros Melee+DK Country 2+Chrono Trigger:
 	Justin is ALIVE
 Winner(s) for Sonic 2+Okami+DK Country 2: TheCodeisBosco 
 	TheCodeisBosco is ALIVE
-Winner(s) for Star Wars KotOR+Sonic 2+DK Country 2+Grand Theft Auto V+GTA San Andreas+Smash Bros Melee+DK Country 2+Grand Theft Auto V: blazing phoenix 
+Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+GTA San Andreas+Smash Bros Melee+DK Country 2+Grand Theft Auto V: blazing phoenix 
 	blazing phoenix is ALIVE
 Winner(s) for Sonic 2+DK Country 2: SpikeDragon 
 	SpikeDragon is ALIVE
 Winner(s) for Okami: Eddv 
 	Eddv is ALIVE
-Winner(s) for Star Wars KotOR+Sonic 2+Okami+Shadow of the Colossus+Smash Bros Melee+Final Fantasy VI: 3DSRage 
+Winner(s) for Sonic 2+Okami+Shadow of the Colossus+Smash Bros Melee+Final Fantasy VI: 3DSRage 
 	3DSRage is ALIVE
 Winner(s) for DK Country 2+DK Country 2: The Owner of FF9 
 	The Owner of FF9 is ALIVE
@@ -182,7 +181,7 @@ Winner(s) for GTA San Andreas: Osfan
 	Osfan is ALIVE
 Winner(s) for Sonic 2+Okami+DK Country 2: Team Rocket Elite 
 	Team Rocket Elite is ALIVE
-Winner(s) for Smash Bros Wii U+Sonic 2+Okami+DK Country 2+DK Country 2: NewerShadow ff6man 
+Winner(s) for Sonic 2+Okami+DK Country 2+DK Country 2: NewerShadow ff6man 
 	NewerShadow is ALIVE
 Winner(s) for Okami+GTA San Andreas: Lord Bob Bree 
 	Lord Bob Bree is ALIVE
@@ -249,7 +248,7 @@ Winner(s) for Okami+DK Country 2+Grand Theft Auto V+GTA San Andreas+Grand Theft 
 	ffmasterjose is ALIVE
 Winner(s) for Okami+DK Country 2+DK Country 2: OFool SirBinro 
 	SirBinro is ALIVE
-Winner(s) for Smash Bros Wii U+Okami+DK Country 2+The Witcher 3: SgtSphynx 
+Winner(s) for Okami+DK Country 2+The Witcher 3: SgtSphynx 
 	SgtSphynx is ALIVE
 Winner(s) for Sonic 2+DK Country 2+GTA San Andreas: Fenny 
 	Fenny is ALIVE
@@ -257,7 +256,7 @@ Winner(s) for Sonic 2+Okami+DK Country 2+DK Country 2: OFool SirBinro Tjian
 	Tjian is ALIVE
 Winner(s) for Sonic 2+DK Country 2+GTA San Andreas+DK Country 2: cyko 
 	cyko is ALIVE
-Winner(s) for Smash Bros Wii U+Sonic 2+DK Country 2: Ringworm 
+Winner(s) for Sonic 2+DK Country 2: Ringworm 
 	Ringworm is ALIVE
 Winner(s) for GTA San Andreas: fpce 
 	fpce is ALIVE
@@ -267,7 +266,7 @@ Winner(s) for Sonic 2+Okami+Shadow of the Colossus+Smash Bros Melee: GeneralZimb
 	GeneralZimbad is ALIVE
 Winner(s) for Sonic 2+Okami+DK Country 2+GTA San Andreas+The Witcher 3+DK Country 2: kinsho 
 	kinsho is ALIVE
-Winner(s) for Star Wars KotOR+Smash Bros Wii U+DK Country 2+Shadow of the Colossus+Smash Bros Melee+Final Fantasy X: SpeedYoshi 
+Winner(s) for DK Country 2+Shadow of the Colossus+Smash Bros Melee+Final Fantasy X: SpeedYoshi 
 	SpeedYoshi is ALIVE
 Winner(s) for Sonic 2+DK Country 2+DK Country 2: BKSheikah 
 	BKSheikah is ALIVE
@@ -309,7 +308,7 @@ Winner(s) for Okami: VengefulKBM
 	VengefulKBM is ALIVE
 Winner(s) for DK Country 2+GTA San Andreas: alblito 
 	alblito is ALIVE
-Winner(s) for Smash Bros Wii U+Sonic 2+GTA San Andreas: Z1mZum 
+Winner(s) for Sonic 2+GTA San Andreas: Z1mZum 
 	Z1mZum is ALIVE
 Winner(s) for Sonic 2+DK Country 2+GTA San Andreas: nkansas 
 	nkansas is ALIVE
@@ -343,9 +342,9 @@ Winner(s) for Okami+DK Country 2+GTA San Andreas+Super Mario RPG: yazzy
 Winner(s) for Okami+DK Country 2+Grand Theft Auto V: haloiscoolisbak 
 	haloiscoolisbak is ALIVE
 	XIII is ALIVE
-Winner(s) for Smash Bros Wii U+Okami+GTA San Andreas: AKJ 
+Winner(s) for Okami+GTA San Andreas: AKJ 
 	AKJ is ALIVE
-Winner(s) for Smash Bros Wii U+Sonic 2+DK Country 2+Grand Theft Auto V+DK Country 2+Grand Theft Auto V: SoulDynasty 
+Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+DK Country 2+Grand Theft Auto V: SoulDynasty 
 	SoulDynasty is ALIVE
 Winner(s) for Sonic 2+DK Country 2: greatone 
 	greatone is ALIVE
@@ -371,7 +370,7 @@ Winner(s) for Sonic 2+Okami+DK Country 2+GTA San Andreas+Grand Theft Auto V: Str
 	Stripey\/INCEPTlON is ALIVE
 Winner(s) for Sonic 2+Okami+DK Country 2: MarioSuperstar 
 	MarioSuperstar is ALIVE
-Winner(s) for Star Wars KotOR+Okami: mnkboy 
+Winner(s) for Okami: mnkboy 
 	mnkboy is ALIVE
 Winner(s) for DK Country 2: Colegreen 
 	Colegreen is ALIVE
@@ -387,7 +386,7 @@ Winner(s) for Okami+DK Country 2+Grand Theft Auto V+GTA San Andreas+Grand Theft 
 	JillyBean is ALIVE
 Winner(s) for Okami+DK Country 2+DK Country 2: ZeroSignal 
 	ZeroSignal is ALIVE
-Winner(s) for Smash Bros Wii U+Sonic 2+DK Country 2+GTA San Andreas+DK Country 2: Zazi\/snowpork 
+Winner(s) for Sonic 2+DK Country 2+GTA San Andreas+DK Country 2: Zazi\/snowpork 
 	Zazi\/snowpork is ALIVE
 Winner(s) for Sonic 2+DK Country 2: pjbasis 
 	pjbasis is ALIVE
