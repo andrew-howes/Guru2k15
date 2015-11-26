@@ -1,394 +1,943 @@
-Current Match: 72
+Current Match: 84
+Winner(s) for DK Country 2: charmander 
 	charmander is ALIVE
-Winner(s) for Sonic 2+DK Country 2: JONALEON 
+Winner(s) for any combination: JONALEON 
 	JONALEON is ALIVE
-Winner(s) for Sonic 2+DK Country 2+GTA San Andreas: Wylvane 
+Winner(s) for GTA San Andreas+Undertale: Wylvane 
 	Wylvane is ALIVE
-Winner(s) for Sonic 2: swirldude 
+Winner(s) for any combination: swirldude 
 	swirldude is ALIVE
-Winner(s) for Skyrim+DK Country 2+GTA San Andreas: Lockes Ragnarok 
+Winner(s) for GTA San Andreas+Pokemon Red Blue: Lockes Ragnarok 
 	Lockes Ragnarok is ALIVE
-Winner(s) for Sonic 2+DK Country 2: pirate109 
+Winner(s) for any combination: pirate109 
 	pirate109 is ALIVE
-Winner(s) for DK Country 2: LordoftheMorons 
+Winner(s) for any combination: LordoftheMorons 
 	LordoftheMorons is ALIVE
-Winner(s) for Okami+DK Country 2: tkizzle 
+Winner(s) for any combination: tkizzle 
 	tkizzle is ALIVE
-Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: Glenn_and_Toad 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: Glenn_and_Toad 
 	Glenn_and_Toad is ALIVE
+Winner(s) for Undertale: Sir Chris 
 	Sir Chris is ALIVE
-Winner(s) for Okami+DK Country 2+GTA San Andreas: RockMFR 
+Winner(s) for GTA San Andreas+Pokemon Red Blue+Pokemon Red Blue: RockMFR 
 	RockMFR is ALIVE
-Winner(s) for Okami+GTA San Andreas: TheArkOfTurus 
+Winner(s) for GTA San Andreas: TheArkOfTurus 
 	TheArkOfTurus is ALIVE
+Winner(s) for any combination: Camden 
 	Camden is ALIVE
-Winner(s) for DK Country 2+Grand Theft Auto V+Grand Theft Auto V: Haste2 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: Haste2 
 	Haste2 is ALIVE
-Winner(s) for Sonic 2+Fallout 3+Metroid Prime+Okami+DK Country 2+The Witcher 3+Smash Bros Wii U+DK Country 2+The Wind Waker: Wizardsfan 
+Winner(s) for The Witcher 3+Smash Bros Wii U+Skyrim+DK Country 2+The Wind Waker: Wizardsfan 
 	Wizardsfan is ALIVE
-Winner(s) for DK Country 2+DK Country 2: ChichiriMuyo 
+Winner(s) for Pokemon Red Blue+Skyrim+DK Country 2: ChichiriMuyo 
 	ChichiriMuyo is ALIVE
-Winner(s) for Okami+DK Country 2: GranzonEx 
-	GranzonEx is ALIVE
-Winner(s) for Sonic 2+DK Country 2: Cookie Monster 
+Winner(s) for any combination: Cookie Monster 
 	Cookie Monster is ALIVE
-Winner(s) for Sonic 2+DK Country 2: hylianknight 
+Winner(s) for any combination: hylianknight 
 	hylianknight is ALIVE
-Winner(s) for DK Country 2+DK Country 2: foolmo 
+Winner(s) for Pokemon Red Blue+DK Country 2+Pokemon Red Blue: foolmo 
 	foolmo is ALIVE
-Winner(s) for Okami+DK Country 2: OFool 
+Winner(s) for any combination: OFool 
 	OFool is ALIVE
+Winner(s) for Pokemon Red Blue: PSI_NESS 
 	PSI_NESS is ALIVE
-Winner(s) for Sonic 2+DK Country 2+DK Country 2: WhiskeyNick\/RPGLord 
+Winner(s) for Pokemon Red Blue+DK Country 2: WhiskeyNick\/RPGLord 
 	WhiskeyNick\/RPGLord is ALIVE
-Winner(s) for Sonic 2+Okami: tazzy 
+Winner(s) for Pokemon Red Blue: tazzy 
 	tazzy is ALIVE
-Winner(s) for Grand Theft Auto V+Grand Theft Auto V: Blairville 
+Winner(s) for Grand Theft Auto V+Pokemon Red Blue+Grand Theft Auto V: Blairville 
 	Blairville is ALIVE
-Winner(s) for DK Country 2+The Witcher 3: Djungelurban 
+Winner(s) for The Witcher 3+Pokemon Red Blue: Djungelurban 
 	Djungelurban is ALIVE
-Winner(s) for Okami+DK Country 2+GTA San Andreas+Smash Bros Wii U+Grand Theft Auto V+Final Fantasy VI+Grand Theft Auto V: jonthomson 
+Winner(s) for GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Skyrim+Grand Theft Auto V+Final Fantasy VI+Grand Theft Auto V: jonthomson 
 	jonthomson is ALIVE
-Winner(s) for Sonic 2+Okami+Grand Theft Auto V+GTA San Andreas+Grand Theft Auto V: DomaDragoon 
+Winner(s) for Grand Theft Auto V+GTA San Andreas+Pokemon Red Blue+Grand Theft Auto V+Pokemon Red Blue+Pokemon Red Blue: DomaDragoon 
 	DomaDragoon is ALIVE
-Winner(s) for Sonic 2+DK Country 2: Kotetsu 
+Winner(s) for any combination: Kotetsu 
 	Kotetsu is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+DK Country 2: SonicRaptor 
+Winner(s) for DK Country 2: SonicRaptor 
 	SonicRaptor is ALIVE
-Winner(s) for Fallout 3+DK Country 2+GTA San Andreas+Fallout 3+DK Country 2: Warning_Crazy 
+Winner(s) for GTA San Andreas+Undertale+DK Country 2: Warning_Crazy 
 	Warning_Crazy is ALIVE
-Winner(s) for DK Country 2+GTA San Andreas: linkhatesganon 
+Winner(s) for GTA San Andreas+Pokemon Red Blue: linkhatesganon 
 	linkhatesganon is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: Ultimaphazon 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: Ultimaphazon 
 	Ultimaphazon is ALIVE
-Winner(s) for Sonic 2+Okami+Grand Theft Auto V+Grand Theft Auto V: DoctorJimmy 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: DoctorJimmy 
 	DoctorJimmy is ALIVE
-Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+DK Country 2+Grand Theft Auto V: andylt 
+Winner(s) for Grand Theft Auto V+Undertale+DK Country 2+Grand Theft Auto V: andylt 
 	andylt is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+Grand Theft Auto V+GTA San Andreas+DK Country 2+Grand Theft Auto V: azuarc 
+Winner(s) for Grand Theft Auto V+GTA San Andreas+Undertale+DK Country 2+Grand Theft Auto V: azuarc 
 	azuarc is ALIVE
-Winner(s) for DK Country 2: Rahvinn 
+Winner(s) for any combination: Rahvinn 
 	Rahvinn is ALIVE
-Winner(s) for Sonic 2+Okami: spooky96 
+Winner(s) for any combination: spooky96 
 	spooky96 is ALIVE
-Winner(s) for DK Country 2: Xeybozn 
+Winner(s) for Pokemon Red Blue+Pokemon Red Blue: Xeybozn 
 	Xeybozn is ALIVE
-Winner(s) for Okami+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: KeepinItFresh 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: KeepinItFresh 
 	KeepinItFresh is ALIVE
+Winner(s) for any combination: Kenri 
 	Kenri is ALIVE
-Winner(s) for Okami+DK Country 2+GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Grand Theft Auto V+Chrono Trigger+Chrono Trigger: Mega Mana 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Smash Bros Melee+Skyrim+Skyrim: DrFootball 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Skyrim: DrFootball 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Melee+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Smash Bros Melee+Skyrim+Skyrim: DrFootball 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Skyrim: DrFootball 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Melee+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+DK Country 2+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Smash Bros Melee+Skyrim+Skyrim: DrFootball 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Grand Theft Auto V+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Skyrim: DrFootball 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Grand Theft Auto V+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Melee+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Grand Theft Auto V+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Grand Theft Auto V+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+Grand Theft Auto V+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Chrono Trigger+Skyrim+Skyrim: Wylvane 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Chrono Trigger: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Chrono Trigger+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Chrono Trigger+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Smash Bros Melee+Skyrim+Skyrim: DrFootball 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+GTA San Andreas+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Skyrim: DrFootball 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Skyrim+Resident Evil 4+Final Fantasy VI+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+GTA San Andreas+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Final Fantasy VI: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Final Fantasy VI+Super Mario 64+Resident Evil 4+Final Fantasy VI+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Melee+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+GTA San Andreas+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Melee+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Skyrim+Resident Evil 4+Smash Bros Wii U+Skyrim+Skyrim: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+GTA San Andreas+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Smash Bros Melee: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Melee+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Pokemon Red Blue+Pokemon Red Blue: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Smash Bros Wii U: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Super Mario 64+Castlevania SotN+GTA San Andreas+Smash Bros Melee+Smash Bros Wii U+Super Mario 64+Resident Evil 4+Smash Bros Wii U+Super Mario 64+Super Mario 64: SSBMGuy 
+Winner(s) for GTA San Andreas+The Witcher 3+Shadow of the Colossus+Chrono Trigger+Smash Bros Melee+Final Fantasy VI+Smash Bros Wii U+Twilight Princess+DK Country 2+Grand Theft Auto V+Chrono Trigger+Final Fantasy VI+Skyrim+Grand Theft Auto V+Chrono Trigger+Pokemon Red Blue+Chrono Trigger: Mega Mana 
 	Mega Mana is ALIVE
-Winner(s) for DK Country 2+Grand Theft Auto V+GTA San Andreas+DK Country 2+Grand Theft Auto V: junk_funk 
+Winner(s) for Grand Theft Auto V+GTA San Andreas+DK Country 2+Grand Theft Auto V: junk_funk 
 	junk_funk is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: Luster Soldier 
-	Luster Soldier is ALIVE
-Winner(s) for Sonic 2+DK Country 2+DK Country 2: hockeydude 
+Winner(s) for Pokemon Red Blue+DK Country 2: hockeydude 
 	hockeydude is ALIVE
-Winner(s) for Sonic 2+Shadow of the Colossus: LamdaMax 
+Winner(s) for Shadow of the Colossus: LamdaMax 
 	LamdaMax is ALIVE
-Winner(s) for Okami+DK Country 2+Grand Theft Auto V+Shadow of the Colossus+Smash Bros Melee+DK Country 2+Grand Theft Auto V: Tirofrog 
+Winner(s) for Grand Theft Auto V+Shadow of the Colossus+Smash Bros Melee+DK Country 2+Grand Theft Auto V: Tirofrog 
 	Tirofrog is ALIVE
-Winner(s) for DK Country 2: DatBooty 
+Winner(s) for any combination: DatBooty 
 	DatBooty is ALIVE
-Winner(s) for Sonic 2+DK Country 2: Cody11533 
+Winner(s) for any combination: Cody11533 
 	Cody11533 is ALIVE
-Winner(s) for Sonic 2+DK Country 2: Joelypoely 
+Winner(s) for Pokemon Red Blue: Joelypoely 
 	Joelypoely is ALIVE
-Winner(s) for DK Country 2: jacko_vdz 
+Winner(s) for any combination: jacko_vdz 
 	jacko_vdz is ALIVE
-Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: pyresword 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: pyresword 
 	pyresword is ALIVE
-Winner(s) for Sonic 2: Reg 
+Winner(s) for Pokemon Red Blue+Pokemon Red Blue+Pokemon Red Blue+Smash Bros Melee: Steevo_234 
+Winner(s) for Pokemon Red Blue+Pokemon Red Blue+Pokemon Red Blue+Pokemon Red Blue: SoulDynasty 
+Winner(s) for Pokemon Red Blue+Pokemon Red Blue+Metroid Prime+Smash Bros Melee: Reg 
 	Reg is ALIVE
 Winner(s) for GTA San Andreas: DpObliVion 
 	DpObliVion is ALIVE
-Winner(s) for DK Country 2: KingBartz 
+Winner(s) for Pokemon Red Blue: KingBartz 
 	KingBartz is ALIVE
-Winner(s) for DK Country 2+Shadow of the Colossus: greengravy 
+Winner(s) for Shadow of the Colossus: greengravy 
 	greengravy is ALIVE
-Winner(s) for Sonic 2+Skyrim+DK Country 2+Smash Bros Melee+Skyrim+Final Fantasy X: POOTERS\/SuperNiceDog 
+Winner(s) for Smash Bros Melee+Undertale+Skyrim+Final Fantasy X: POOTERS\/SuperNiceDog 
 	POOTERS\/SuperNiceDog is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: tennisboy 
+Winner(s) for Pokemon Red Blue: tennisboy 
 	tennisboy is ALIVE
-Winner(s) for DK Country 2: gitanil 
+Winner(s) for any combination: gitanil 
 	gitanil is ALIVE
-Winner(s) for Sonic 2+DK Country 2+GTA San Andreas+Shadow of the Colossus+Grand Theft Auto V: PrinceKaro 
+Winner(s) for GTA San Andreas+Shadow of the Colossus+Grand Theft Auto V: PrinceKaro 
 	PrinceKaro is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: Xuxon 
+Winner(s) for Pokemon Red Blue+Pokemon Red Blue: Xuxon 
 	Xuxon is ALIVE
-Winner(s) for Sonic 2+Okami: Steiner 
+Winner(s) for Pokemon Red Blue: Steiner 
 	Steiner is ALIVE
-Winner(s) for DK Country 2: Dragon66116 
+Winner(s) for any combination: Dragon66116 
 	Dragon66116 is ALIVE
-Winner(s) for Sonic 2+Chrono Trigger: wishiwasdead 
+Winner(s) for Chrono Trigger+Pokemon Red Blue+Skyrim+Pokemon Red Blue+Pokemon Red Blue+Smash Bros Melee: Steevo_234 
+Winner(s) for Chrono Trigger+Pokemon Red Blue+Skyrim+Pokemon Red Blue+Pokemon Red Blue+Pokemon Red Blue: abdou 
+Winner(s) for Chrono Trigger+Pokemon Red Blue+Skyrim+Pokemon Red Blue+Super Mario 64+Smash Bros Melee: DpObliVion wishiwasdead 
 	wishiwasdead is ALIVE
-Winner(s) for Fallout 3+Okami+DK Country 2: BlAcK TuRtLe 
+Winner(s) for any combination: BlAcK TuRtLe 
 	BlAcK TuRtLe is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: Dilated Chemist 
+Winner(s) for any combination: Dilated Chemist 
 	Dilated Chemist is ALIVE
-Winner(s) for Okami: ctes 
+Winner(s) for any combination: ctes 
 	ctes is ALIVE
-Winner(s) for Okami+DK Country 2: Steevo_234 
+Winner(s) for any combination: Steevo_234 
 	Steevo_234 is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+GTA San Andreas: machinegungeek 
+Winner(s) for GTA San Andreas: machinegungeek 
 	machinegungeek is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+DK Country 2: _Harmonica_ 
+Winner(s) for DK Country 2: _Harmonica_ 
 	_Harmonica_ is ALIVE
-Winner(s) for DK Country 2+Grand Theft Auto V+DK Country 2+Grand Theft Auto V: Wigs 
+Winner(s) for Grand Theft Auto V+Pokemon Red Blue+DK Country 2+Grand Theft Auto V: Wigs 
 	Wigs is ALIVE
-Winner(s) for DK Country 2: CybrMonkey 
+Winner(s) for any combination: CybrMonkey 
 	CybrMonkey is ALIVE
-Winner(s) for Sonic 2+Fallout 3: SuorGenoveffa 
+Winner(s) for any combination: SuorGenoveffa 
 	SuorGenoveffa is ALIVE
-Winner(s) for Sonic 2+Grand Theft Auto V+Grand Theft Auto V: HaRRicH 
-	HaRRicH is ALIVE
+Winner(s) for Grand Theft Auto V+DK Country 2+Grand Theft Auto V: junglebob 
+Winner(s) for Grand Theft Auto V+DK Country 2+Chrono Cross: junglebob 
+Winner(s) for Grand Theft Auto V+Castlevania SotN+Grand Theft Auto V: junglebob 
+Winner(s) for Grand Theft Auto V+Castlevania SotN+Chrono Cross: junglebob 
+Winner(s) for Super Mario RPG+DK Country 2+Super Mario RPG: junglebob 
+Winner(s) for Super Mario RPG+DK Country 2+Chrono Cross: junglebob 
+Winner(s) for Super Mario RPG+Castlevania SotN+Super Mario RPG: junglebob 
+Winner(s) for Super Mario RPG+Castlevania SotN+Chrono Cross: junglebob 
+	HaRRicH is DEAD
+Winner(s) for Pokemon Red Blue: T4libKw4li 
 	T4libKw4li is ALIVE
-Winner(s) for DK Country 2+GTA San Andreas+Shadow of the Colossus+DK Country 2: Kibago 
+Winner(s) for GTA San Andreas+Shadow of the Colossus+Skyrim+DK Country 2: Kibago 
 	Kibago is ALIVE
 Winner(s) for Grand Theft Auto V+Grand Theft Auto V: DrFootball 
 	DrFootball is ALIVE
-Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: Radix 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: Radix 
 	Radix is ALIVE
-Winner(s) for Sonic 2: GTM 
+Winner(s) for any combination: GTM 
 	GTM is ALIVE
-Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: OFool 
-Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+Chrono Cross: OFool Dragon66116 
-Winner(s) for Sonic 2+DK Country 2+Super Mario RPG+Super Mario RPG: OFool 
-Winner(s) for Sonic 2+DK Country 2+Super Mario RPG+Chrono Cross: OFool Dragon66116 
-Winner(s) for Sonic 2+Fire Emblem Awakening+Grand Theft Auto V+Grand Theft Auto V: OFool 
-Winner(s) for Sonic 2+Fire Emblem Awakening+Grand Theft Auto V+Chrono Cross: OFool Dragon66116 
-Winner(s) for Sonic 2+Fire Emblem Awakening+Super Mario RPG+Super Mario RPG: OFool 
-Winner(s) for Sonic 2+Fire Emblem Awakening+Super Mario RPG+Chrono Cross: OFool Dragon66116 
-Winner(s) for Uncharted 2+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: Master Moltar 
-	Master Moltar is ALIVE
-Winner(s) for Sonic 2+DK Country 2+Smash Bros Melee+DK Country 2+Chrono Trigger: Justin 
+Winner(s) for Smash Bros Melee+DK Country 2+Chrono Trigger: Justin 
 	Justin is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: TheCodeisBosco 
+Winner(s) for any combination: TheCodeisBosco 
 	TheCodeisBosco is ALIVE
-Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+GTA San Andreas+Smash Bros Melee+DK Country 2+Grand Theft Auto V: blazing phoenix 
+Winner(s) for Grand Theft Auto V+GTA San Andreas+Smash Bros Melee+Undertale+DK Country 2+Grand Theft Auto V+Pokemon Red Blue: blazing phoenix 
 	blazing phoenix is ALIVE
-Winner(s) for Sonic 2+DK Country 2: SpikeDragon 
+Winner(s) for any combination: SpikeDragon 
 	SpikeDragon is ALIVE
-Winner(s) for Okami: Eddv 
+Winner(s) for any combination: Eddv 
 	Eddv is ALIVE
-Winner(s) for Sonic 2+Okami+Shadow of the Colossus+Smash Bros Melee+Final Fantasy VI: 3DSRage 
+Winner(s) for Shadow of the Colossus+Smash Bros Melee+Final Fantasy VI+Skyrim: Colegreen 
+Winner(s) for Shadow of the Colossus+Smash Bros Melee+Final Fantasy VI+Metroid Prime: Colegreen 
+Winner(s) for Shadow of the Colossus+Smash Bros Melee+The Wind Waker+Skyrim: Colegreen 
+Winner(s) for Shadow of the Colossus+Smash Bros Melee+The Wind Waker+Metroid Prime: Colegreen 
+Winner(s) for Shadow of the Colossus+Kingdom Hearts II+Final Fantasy VI+Skyrim: Colegreen 
+Winner(s) for Shadow of the Colossus+Kingdom Hearts II+Final Fantasy VI+Metroid Prime: Colegreen 
+Winner(s) for Shadow of the Colossus+Kingdom Hearts II+The Wind Waker+Skyrim: Colegreen 
+Winner(s) for Shadow of the Colossus+Kingdom Hearts II+The Wind Waker+Metroid Prime: Colegreen 
+Winner(s) for Red Dead Redemption+Smash Bros Melee+Final Fantasy VI+Skyrim: Colegreen 
+Winner(s) for Red Dead Redemption+Smash Bros Melee+Final Fantasy VI+Metroid Prime: Colegreen 
+Winner(s) for Red Dead Redemption+Smash Bros Melee+The Wind Waker+Skyrim: Colegreen 
+Winner(s) for Red Dead Redemption+Smash Bros Melee+The Wind Waker+Metroid Prime: Colegreen 
+Winner(s) for Red Dead Redemption+Kingdom Hearts II+Final Fantasy VI+Skyrim: Colegreen 
+Winner(s) for Red Dead Redemption+Kingdom Hearts II+Final Fantasy VI+Metroid Prime: 3DSRage Colegreen 
 	3DSRage is ALIVE
-Winner(s) for DK Country 2+DK Country 2: The Owner of FF9 
+Winner(s) for Skyrim+DK Country 2: The Owner of FF9 
 	The Owner of FF9 is ALIVE
-Winner(s) for Sonic 2: starfox2245 
+Winner(s) for any combination: starfox2245 
 	starfox2245 is ALIVE
-Winner(s) for GTA San Andreas: Osfan 
+Winner(s) for GTA San Andreas+Undertale+Pokemon Red Blue+Pokemon Red Blue: Osfan Qwaar 
 	Osfan is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: Team Rocket Elite 
+Winner(s) for any combination: Team Rocket Elite 
 	Team Rocket Elite is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+DK Country 2: NewerShadow ff6man 
+Winner(s) for DK Country 2: NewerShadow 
 	NewerShadow is ALIVE
-Winner(s) for Okami+GTA San Andreas: Lord Bob Bree 
+Winner(s) for GTA San Andreas: Lord Bob Bree 
 	Lord Bob Bree is ALIVE
-Winner(s) for Fallout 3+DK Country 2+GTA San Andreas: FFDragon 
+Winner(s) for GTA San Andreas: FFDragon 
 	FFDragon is ALIVE
-Winner(s) for Sonic 2+DK Country 2: DaruniaTheGoron 
+Winner(s) for any combination: DaruniaTheGoron 
 	DaruniaTheGoron is ALIVE
-Winner(s) for Sonic 2+Okami+Grand Theft Auto V+Grand Theft Auto V: Paratroopa 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: Paratroopa 
 	Paratroopa is ALIVE
-Winner(s) for DK Country 2+DK Country 2: Mr3790 
+Winner(s) for DK Country 2: Mr3790 
 	Mr3790 is ALIVE
-Winner(s) for Grand Theft Auto V+Grand Theft Auto V: Link versus Cloud 
+Winner(s) for Grand Theft Auto V+Pokemon Red Blue+Grand Theft Auto V: Kotetsu 
+Winner(s) for Grand Theft Auto V+Pokemon Red Blue+GTA San Andreas: Kotetsu 
+Winner(s) for Grand Theft Auto V+Sonic 2+Grand Theft Auto V: Link versus Cloud 
 	Link versus Cloud is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+DK Country 2: tranny 
+Winner(s) for Pokemon Red Blue+DK Country 2: tranny 
 	tranny is ALIVE
-Winner(s) for Okami+DK Country 2: MysteriousStan 
-	MysteriousStan is ALIVE
-Winner(s) for GTA San Andreas: Tsunami 
+Winner(s) for any combination: Rahvinn 
+	MysteriousStan is DEAD
+Winner(s) for GTA San Andreas+Pokemon Red Blue+Pokemon Red Blue: Tsunami 
 	Tsunami is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: MacArrowny 
-Winner(s) for Sonic 2+Okami+DK Country 2+Grand Theft Auto V+GTA San Andreas: dimi 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: MacArrowny 
+Winner(s) for Grand Theft Auto V+GTA San Andreas: MacArrowny 
+Winner(s) for Super Mario RPG+Super Mario RPG: dimi 
 	dimi is ALIVE
-Winner(s) for Sonic 2+DK Country 2: IloveYoda 
+Winner(s) for any combination: IloveYoda 
 	IloveYoda is ALIVE
-Winner(s) for Okami+DK Country 2+GTA San Andreas+Starcraft+Metal Gear Solid 3: chocoboslayer 
+Winner(s) for GTA San Andreas+Starcraft+Metal Gear Solid 3: chocoboslayer 
 	chocoboslayer is ALIVE
-Winner(s) for Okami+DK Country 2: whatisurnameplz 
+Winner(s) for any combination: whatisurnameplz 
 	whatisurnameplz is ALIVE
-Winner(s) for Sonic 2+DK Country 2: foxhead 
+Winner(s) for any combination: foxhead 
 	foxhead is ALIVE
-Winner(s) for Okami+GTA San Andreas: MMXcalibur 
+Winner(s) for GTA San Andreas: MMXcalibur 
 	MMXcalibur is ALIVE
-Winner(s) for Okami+DK Country 2: Nintendoboy 
+Winner(s) for any combination: Nintendoboy 
 	Nintendoboy is ALIVE
-Winner(s) for Okami: WhiteLens 
+Winner(s) for any combination: WhiteLens 
 	WhiteLens is ALIVE
-Winner(s) for Sonic 2: MacArrowny 
+Winner(s) for any combination: MacArrowny 
 	MacArrowny is ALIVE
-Winner(s) for DK Country 2: Korayashi 
+Winner(s) for any combination: Korayashi 
 	Korayashi is ALIVE
-Winner(s) for DK Country 2+GTA San Andreas: Cokes 
+Winner(s) for GTA San Andreas: Cokes 
 	Cokes is ALIVE
-Winner(s) for Okami+DK Country 2+GTA San Andreas: worldsenvy 
+Winner(s) for GTA San Andreas+Pokemon Red Blue: worldsenvy 
 	worldsenvy is ALIVE
-Winner(s) for Sonic 2+DK Country 2+DK Country 2: redsox 
+Winner(s) for Skyrim+DK Country 2: redsox 
 	redsox is ALIVE
-Winner(s) for Sonic 2+Super Metroid+Grand Theft Auto V+Shadow of the Colossus+Grand Theft Auto V: Ytterbicide 
+Winner(s) for Super Metroid+Grand Theft Auto V+Shadow of the Colossus+Undertale+Grand Theft Auto V: Ytterbicide 
 	Ytterbicide is ALIVE
-Winner(s) for DK Country 2+Grand Theft Auto V+Grand Theft Auto V: WarThaNemesis 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: WarThaNemesis 
 	WarThaNemesis is ALIVE
-Winner(s) for Sonic 2+Okami: Articuno 
+Winner(s) for Pokemon Red Blue: Articuno 
 	Articuno is ALIVE
-Winner(s) for Sonic 2+DK Country 2: meche 
+Winner(s) for any combination: meche 
 	meche is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+GTA San Andreas+DK Country 2: guffguy 
+Winner(s) for GTA San Andreas+DK Country 2: guffguy 
 	guffguy is ALIVE
-Winner(s) for Okami+DK Country 2: junglebob 
+Winner(s) for any combination: junglebob 
 	junglebob is ALIVE
-Winner(s) for Okami+DK Country 2+DK Country 2: theawesomestevr 
+Winner(s) for DK Country 2: theawesomestevr 
 	theawesomestevr is ALIVE
-Winner(s) for Sonic 2+DK Country 2: JJH777 
+Winner(s) for any combination: JJH777 
 	JJH777 is ALIVE
-Winner(s) for Okami+DK Country 2+Grand Theft Auto V+GTA San Andreas+Grand Theft Auto V: ffmasterjose 
+Winner(s) for Grand Theft Auto V+GTA San Andreas+Pokemon Red Blue+Grand Theft Auto V: ffmasterjose 
 	ffmasterjose is ALIVE
-Winner(s) for Okami+DK Country 2+DK Country 2: OFool SirBinro 
+Winner(s) for DK Country 2: OFool SirBinro 
 	SirBinro is ALIVE
-Winner(s) for Okami+DK Country 2+The Witcher 3: SgtSphynx 
+Winner(s) for The Witcher 3+Skyrim: SgtSphynx 
 	SgtSphynx is ALIVE
-Winner(s) for Sonic 2+DK Country 2+GTA San Andreas: Fenny 
+Winner(s) for GTA San Andreas+Super Mario 64: Fenny 
 	Fenny is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+DK Country 2: OFool SirBinro Tjian 
+Winner(s) for DK Country 2: OFool SirBinro Tjian 
 	Tjian is ALIVE
-Winner(s) for Sonic 2+DK Country 2+GTA San Andreas+DK Country 2: cyko 
+Winner(s) for GTA San Andreas+DK Country 2: cyko 
 	cyko is ALIVE
-Winner(s) for Sonic 2+DK Country 2: Ringworm 
+Winner(s) for any combination: Ringworm 
 	Ringworm is ALIVE
-Winner(s) for GTA San Andreas: fpce 
+Winner(s) for GTA San Andreas+Undertale: fpce 
 	fpce is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+Grand Theft Auto V+DK Country 2+Grand Theft Auto V: cloelea 
+Winner(s) for Grand Theft Auto V+DK Country 2+Grand Theft Auto V: cloelea 
 	cloelea is ALIVE
-Winner(s) for Sonic 2+Okami+Shadow of the Colossus+Smash Bros Melee: GeneralZimbad 
+Winner(s) for Shadow of the Colossus+Smash Bros Melee+Skyrim: GeneralZimbad 
 	GeneralZimbad is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+GTA San Andreas+The Witcher 3+DK Country 2: kinsho 
+Winner(s) for GTA San Andreas+The Witcher 3+DK Country 2: kinsho 
 	kinsho is ALIVE
-Winner(s) for DK Country 2+Shadow of the Colossus+Smash Bros Melee+Final Fantasy X: SpeedYoshi 
+Winner(s) for Shadow of the Colossus+Smash Bros Melee+Final Fantasy X: XIII 
+Winner(s) for Shadow of the Colossus+Smash Bros Melee+Smash Bros Melee: junglebob 
+Winner(s) for Shadow of the Colossus+Kingdom Hearts II+Final Fantasy X: XIII 
+Winner(s) for Shadow of the Colossus+Kingdom Hearts II+Kingdom Hearts II: SpeedYoshi 
 	SpeedYoshi is ALIVE
-Winner(s) for Sonic 2+DK Country 2+DK Country 2: BKSheikah 
+Winner(s) for Pokemon Red Blue+DK Country 2: BKSheikah 
 	BKSheikah is ALIVE
-Winner(s) for GTA San Andreas+Super Mario RPG: Pokalicious 
+Winner(s) for GTA San Andreas+Pokemon Red Blue+Super Mario RPG: Pokalicious 
 	Pokalicious is ALIVE
-Winner(s) for Sonic 2+Okami: therobbieg 
+Winner(s) for any combination: therobbieg 
 	therobbieg is ALIVE
-Winner(s) for Okami+Shadow of the Colossus: LOZLTTP 
+Winner(s) for Shadow of the Colossus+Pokemon Red Blue+Undertale+Pokemon Red Blue: LOZLTTP 
 	LOZLTTP is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: TVontheRadio 
+Winner(s) for Pokemon Red Blue: TVontheRadio 
 	TVontheRadio is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+GTA San Andreas+Grand Theft Auto V: CasanovaZelos 
+Winner(s) for GTA San Andreas+Skyrim+Grand Theft Auto V: Qwaar 
+Winner(s) for GTA San Andreas+Skyrim+GTA San Andreas: Qwaar 
+Winner(s) for GTA San Andreas+Metroid Prime+Grand Theft Auto V: Qwaar 
+Winner(s) for GTA San Andreas+Metroid Prime+GTA San Andreas: CasanovaZelos 
 	CasanovaZelos is ALIVE
-Winner(s) for DK Country 2+DK Country 2: MeteorExF 
+Winner(s) for DK Country 2: MeteorExF 
 	MeteorExF is ALIVE
-Winner(s) for DK Country 2: Ulti 
+Winner(s) for Pokemon Red Blue: Kotetsu 
+Winner(s) for Sonic 2: Ulti 
 	Ulti is ALIVE
-Winner(s) for Sonic 2+DK Country 2: abdou 
+Winner(s) for any combination: abdou 
 	abdou is ALIVE
-Winner(s) for Okami+DK Country 2+DK Country 2: mcflubbin 
+Winner(s) for DK Country 2: mcflubbin 
 	mcflubbin is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: SSBMGuy 
+Winner(s) for Grand Theft Auto V+Pokemon Red Blue+Grand Theft Auto V: SSBMGuy 
 	SSBMGuy is ALIVE
-Winner(s) for Sonic 2: Keltiq 
+Winner(s) for Undertale+Pokemon Red Blue: Keltiq 
 	Keltiq is ALIVE
-Winner(s) for Okami+DK Country 2: Leon 
+Winner(s) for any combination: Leon 
 	Leon is ALIVE
-Winner(s) for Okami+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: Menji 
+Winner(s) for Grand Theft Auto V+Undertale+Grand Theft Auto V: Menji 
 	Menji is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: Yesmar 
+Winner(s) for any combination: Yesmar 
 	Yesmar is ALIVE
-Winner(s) for Sonic 2+Okami: Ngamer 
+Winner(s) for any combination: Ngamer 
 	Ngamer is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+DK Country 2: PramTheOracle 
+Winner(s) for DK Country 2: PramTheOracle 
 	PramTheOracle is ALIVE
-Winner(s) for Sonic 2+Okami: Big Bob 
+Winner(s) for Pokemon Red Blue+Pokemon Red Blue+Pokemon Red Blue: Big Bob 
 	Big Bob is ALIVE
-Winner(s) for Okami: VengefulKBM 
+Winner(s) for Pokemon Red Blue+DK Country 2: VengefulKBM 
 	VengefulKBM is ALIVE
-Winner(s) for DK Country 2+GTA San Andreas: alblito 
+Winner(s) for GTA San Andreas+Pokemon Red Blue: alblito 
 	alblito is ALIVE
-Winner(s) for Sonic 2+GTA San Andreas: Z1mZum 
+Winner(s) for GTA San Andreas+Pokemon Red Blue: Z1mZum 
 	Z1mZum is ALIVE
-Winner(s) for Sonic 2+DK Country 2+GTA San Andreas: nkansas 
+Winner(s) for GTA San Andreas+DK Country 2: nkansas 
 	nkansas is ALIVE
-Winner(s) for DK Country 2+Grand Theft Auto V+Smash Bros Melee+DK Country 2+Final Fantasy X+Final Fantasy X: Oxbridge 
+Winner(s) for Grand Theft Auto V+Smash Bros Melee+DK Country 2+Final Fantasy X+Final Fantasy X: Oxbridge 
 	Oxbridge is ALIVE
-Winner(s) for Sonic 2+Metal Gear Solid V+The Witcher 3: Ange 
+Winner(s) for Metal Gear Solid V+The Witcher 3+Skyrim: Ange 
 	Ange is ALIVE
-Winner(s) for Okami+Grand Theft Auto V+GTA San Andreas+Grand Theft Auto V: HeroDelTiemp 
+Winner(s) for Grand Theft Auto V+GTA San Andreas+Undertale+Grand Theft Auto V: HeroDelTiemp 
 	HeroDelTiemp is ALIVE
-Winner(s) for Sonic 2+DK Country 2: Terastodon 
+Winner(s) for any combination: Terastodon 
 	Terastodon is ALIVE
-Winner(s) for DK Country 2+GTA San Andreas+DK Country 2+Super Mario RPG: raytan 
+Winner(s) for GTA San Andreas+Pokemon Red Blue+DK Country 2+Super Mario RPG: raytan 
 	raytan is ALIVE
-Winner(s) for Sonic 2+Grand Theft Auto V+Grand Theft Auto V: Bospsychopaat 
+Winner(s) for Grand Theft Auto V+Pokemon Red Blue+Undertale+Grand Theft Auto V+Pokemon Red Blue: Bospsychopaat 
 	Bospsychopaat is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+Grand Theft Auto V+DK Country 2+Grand Theft Auto V: voltch 
+Winner(s) for Grand Theft Auto V+DK Country 2+Grand Theft Auto V: voltch 
 	voltch is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+GTA San Andreas+DK Country 2: paulg 
+Winner(s) for GTA San Andreas+DK Country 2: paulg 
 	paulg is ALIVE
+Winner(s) for any combination: Safer777 
 	Safer777 is ALIVE
-Winner(s) for Sonic 2+DK Country 2+GTA San Andreas: Kateeeee 
+Winner(s) for GTA San Andreas: Kateeeee 
 	Kateeeee is ALIVE
-Winner(s) for DK Country 2: ff6man 
+Winner(s) for any combination: ff6man 
 	ff6man is ALIVE
-Winner(s) for Okami+DK Country 2: Polycosm 
+Winner(s) for any combination: Kotetsu Polycosm 
 	Polycosm is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: The Real Truth 
+Winner(s) for any combination: The Real Truth 
 	The Real Truth is ALIVE
-Winner(s) for Okami+DK Country 2+GTA San Andreas+Super Mario RPG: yazzy 
+Winner(s) for GTA San Andreas+Pokemon Red Blue+Super Mario RPG: yazzy 
 	yazzy is ALIVE
-Winner(s) for Okami+DK Country 2+Grand Theft Auto V: haloiscoolisbak 
+Winner(s) for Grand Theft Auto V: haloiscoolisbak 
 	haloiscoolisbak is ALIVE
+Winner(s) for any combination: XIII 
 	XIII is ALIVE
-Winner(s) for Okami+GTA San Andreas: AKJ 
+Winner(s) for GTA San Andreas: AKJ 
 	AKJ is ALIVE
-Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+DK Country 2+Grand Theft Auto V: SoulDynasty 
+Winner(s) for Grand Theft Auto V+DK Country 2+Grand Theft Auto V: SoulDynasty 
 	SoulDynasty is ALIVE
-Winner(s) for Sonic 2+DK Country 2: greatone 
+Winner(s) for Skyrim: greatone 
 	greatone is ALIVE
-Winner(s) for Sonic 2+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: Samurai7 
+Winner(s) for Grand Theft Auto V+Pokemon Red Blue+Grand Theft Auto V: Samurai7 
 	Samurai7 is ALIVE
-Winner(s) for Metroid Prime+DK Country 2: Kleenex\/Mana Sword 
+Winner(s) for any combination: Kleenex\/Mana Sword 
 	Kleenex\/Mana Sword is ALIVE
-Winner(s) for Sonic 2+DK Country 2: SubDeity 
+Winner(s) for any combination: SubDeity 
 	SubDeity is ALIVE
+Winner(s) for any combination: scaryice 
 	scaryice is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: MonkClive0\/JeezyMiyagi 
+Winner(s) for any combination: MonkClive0\/JeezyMiyagi 
 	MonkClive0\/JeezyMiyagi is ALIVE
+Winner(s) for Pokemon Red Blue: ZeldaTPLink 
 	ZeldaTPLink is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+GTA San Andreas: firefdr 
+Winner(s) for GTA San Andreas: firefdr 
 	firefdr is ALIVE
-Winner(s) for Okami: BaneOfDespair 
+Winner(s) for any combination: BaneOfDespair 
 	BaneOfDespair is ALIVE
-Winner(s) for Sonic 2+Grand Theft Auto V+Grand Theft Auto V: handsomeboy 
+Winner(s) for Grand Theft Auto V+Pokemon Red Blue+Grand Theft Auto V: handsomeboy 
 	handsomeboy is ALIVE
-Winner(s) for Sonic 2+DK Country 2: AxemRedRanger 
+Winner(s) for any combination: AxemRedRanger 
 	AxemRedRanger is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2+GTA San Andreas+Grand Theft Auto V: Stripey\/INCEPTlON 
+Winner(s) for GTA San Andreas+Pokemon Red Blue+Grand Theft Auto V: Stripey\/INCEPTlON 
 	Stripey\/INCEPTlON is ALIVE
-Winner(s) for Sonic 2+Okami+DK Country 2: MarioSuperstar 
+Winner(s) for Pokemon Red Blue: MarioSuperstar 
 	MarioSuperstar is ALIVE
-Winner(s) for Okami: mnkboy 
+Winner(s) for Undertale+DK Country 2: mnkboy 
 	mnkboy is ALIVE
-Winner(s) for DK Country 2: Colegreen 
+Winner(s) for any combination: Colegreen 
 	Colegreen is ALIVE
-Winner(s) for Sonic 2+DK Country 2+GTA San Andreas: Wibo 
+Winner(s) for GTA San Andreas+Pokemon Red Blue+Pokemon Red Blue+Pokemon Red Blue: Cookie Monster dimi 
+Winner(s) for GTA San Andreas+Pokemon Red Blue+Pokemon Red Blue+Skyrim: pyresword 
+Winner(s) for GTA San Andreas+Pokemon Red Blue+Super Mario World+Super Mario World: alblito 
+Winner(s) for GTA San Andreas+Pokemon Red Blue+Super Mario World+Skyrim: Wibo 
 	Wibo is ALIVE
-Winner(s) for Sonic 2+DK Country 2: davidponte 
+Winner(s) for any combination: davidponte 
 	davidponte is ALIVE
-Winner(s) for Okami+DK Country 2+Grand Theft Auto V+Grand Theft Auto V: Magmortar 
+Winner(s) for Grand Theft Auto V+Grand Theft Auto V: Magmortar 
 	Magmortar is ALIVE
-Winner(s) for DK Country 2: Advokaiser 
+Winner(s) for any combination: Advokaiser 
 	Advokaiser is ALIVE
-Winner(s) for Okami+DK Country 2+Grand Theft Auto V+GTA San Andreas+Grand Theft Auto V: JillyBean 
+Winner(s) for Grand Theft Auto V+GTA San Andreas+Grand Theft Auto V: JillyBean 
 	JillyBean is ALIVE
-Winner(s) for Okami+DK Country 2+DK Country 2: ZeroSignal 
+Winner(s) for Pokemon Red Blue+DK Country 2+Pokemon Red Blue: ZeroSignal 
 	ZeroSignal is ALIVE
-Winner(s) for Sonic 2+DK Country 2+GTA San Andreas+DK Country 2: Zazi\/snowpork 
+Winner(s) for GTA San Andreas+DK Country 2: Zazi\/snowpork 
 	Zazi\/snowpork is ALIVE
-Winner(s) for Sonic 2+DK Country 2: pjbasis 
+Winner(s) for Pokemon Red Blue+DK Country 2+Pokemon Red Blue: hylianknight 
+Winner(s) for Pokemon Red Blue+DK Country 2+Super Mario World: Kotetsu 
+Winner(s) for Pokemon Red Blue+Castlevania SotN+Pokemon Red Blue: hylianknight 
+Winner(s) for Pokemon Red Blue+Castlevania SotN+Super Mario World: Kotetsu 
+Winner(s) for Sonic 2+DK Country 2+Sonic 2: pjbasis 
 	pjbasis is ALIVE
-Winner(s) for Sonic 2+DK Country 2: Qwaar 
+Winner(s) for any combination: Qwaar 
 	Qwaar is ALIVE

@@ -134,7 +134,12 @@ public class GuruElimChecker {
 		}
 		if(differences.size() == 0)
 		{
-			System.out.print("\t"+entrants[checkIndex]+" is ALIVE");
+			if(outputScenarioWinner("any combination+"))
+			{
+				System.out.print("\t"+entrants[checkIndex]+" is ALIVE");
+			}else{
+				System.out.print("\t"+entrants[checkIndex]+" is DEAD");
+			}
 		}else{
 			//find later round matches to iterate through, where the player is wrong
 			wrongMatches = new int[differences.size()];
