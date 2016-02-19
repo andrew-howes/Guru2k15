@@ -1,9 +1,10 @@
 <span class="nocode">
-updated through Super Mario RPG's win
+updated through Undertale's win
 Big Bob's closest brackets: - current score: 216 count: 1
-  DpObliVion - total difference: 150 current deficit: 32 possible gain: 64
-    magic number: 32
+  DpObliVion - total difference: 150 current deficit: 32 possible gain: 0
+    magic number: -32
 	differences: [15, 19, 34, 35, 36, 37, 52, 63, 73, 74, 82, 86, 90, 97, 101, 104, 115, 116, 120, 122, 124, 127]
+Should be dead
 DpObliVion's closest brackets: - current score: 248 count: 1
   Big Bob - total difference: 150 current deficit: -32 possible gain: 64
     magic number: 96

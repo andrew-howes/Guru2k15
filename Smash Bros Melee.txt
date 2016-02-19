@@ -1,20 +1,20 @@
 <span class="nocode">
-updated through Super Mario RPG's win
-Big Bob's closest brackets: - current score: 216 count: 1
+updated through Smash Bros Melee's win
+Big Bob's closest brackets: - current score: 248 count: 1
   DpObliVion - total difference: 150 current deficit: 32 possible gain: 64
     magic number: 32
 	differences: [15, 19, 34, 35, 36, 37, 52, 63, 73, 74, 82, 86, 90, 97, 101, 104, 115, 116, 120, 122, 124, 127]
-DpObliVion's closest brackets: - current score: 248 count: 1
+DpObliVion's closest brackets: - current score: 280 count: 1
   Big Bob - total difference: 150 current deficit: -32 possible gain: 64
     magic number: 96
 	differences: [15, 19, 34, 35, 36, 37, 52, 63, 73, 74, 82, 86, 90, 97, 101, 104, 115, 116, 120, 122, 124, 127]
 SSBMGuy's closest brackets: - current score: 215 count: 2
-  Big Bob - total difference: 221 current deficit: 1 possible gain: 0
-    magic number: -1
+  Big Bob - total difference: 221 current deficit: 33 possible gain: 0
+    magic number: -33
 	differences: [7, 10, 15, 38, 47, 50, 58, 68, 83, 89, 104, 109, 115, 116, 120, 121, 122, 124, 125, 126, 127]
 Should be dead
-  DpObliVion - total difference: 193 current deficit: 33 possible gain: 0
-    magic number: -33
+  DpObliVion - total difference: 193 current deficit: 65 possible gain: 0
+    magic number: -65
 	differences: [7, 10, 19, 34, 35, 36, 37, 38, 47, 50, 52, 58, 63, 68, 73, 74, 82, 83, 86, 89, 90, 97, 101, 109, 115, 121, 125, 126, 127]
 Should be dead
 </span>

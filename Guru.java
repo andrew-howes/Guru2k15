@@ -52,14 +52,14 @@ public class Guru {
 	        System.out.println("File Read Error: " + e.getMessage());
 	    }
 		scores = calculateScores(results);
-		System.out.println("Current Match: " + nextMatch);
+		System.out.println("Current Match: " + nextMatch + " Remaining Brackets: " + entrants.length);
 		outputClosestBrackets();
 		if(args.length <= 1)
 			checkNext(1,"");
 		else
 			checkNext(Integer.parseInt(args[1]),"");
-		/*
-		calculateScenarios("");*/
+		
+		calculateScenarios("");
 	}
 	
 	public static void checkNext(int i, String filename)
@@ -73,8 +73,10 @@ public class Guru {
 			scores = calculateScores(results);
 			if(i <= 1)
 			{
+				nextMatch++;
 				neighbors = new File(filename+poss+".txt");
 				outputClosestBrackets();
+				nextMatch--;
 			}else{
 				nextMatch++;
 				checkNext(i-1, filename+poss+"+");
@@ -94,7 +96,7 @@ public class Guru {
 			possibleResults[nextMatch][0] = poss;
 			results[nextMatch] = poss;
 			scores = calculateScores(results);
-			if(nextMatch == 127)
+			if(nextMatch == 126)
 			{
 				String newScene = scene+poss;
 				outputWinner(newScene);
@@ -130,8 +132,8 @@ public class Guru {
 	{
 		String[] result;
 		int start;
-		if(!possibleResults[match][0].equals(""))
-			return possibleResults[match];
+//		if(!possibleResults[match][0].equals(""))
+//			return possibleResults[match];
 		ArrayList<String> temp = new ArrayList<String>();
 		if(match < 96)
 		{
